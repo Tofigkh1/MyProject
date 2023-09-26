@@ -30,3 +30,6 @@
     display: flex;
     padding: 46px 32px;
 }
+.div1,.img1{
+    flex-grow: 1;
+}
